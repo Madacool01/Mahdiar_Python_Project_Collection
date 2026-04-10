@@ -30,7 +30,7 @@ Requirements:
     A Webcam.
 Installation:
   1. Clone the repository within your terminal:
-        git clone https://github.com/Madacool01/AeroMouse.git
+        git clone https://github.com/Madacool01/AeroMouse 04.10.2026.git
   2. Within your terminal, navigate to the directory:
         cd "AeroMouse 04.10.2026"
   3. Create a virtual Environment:
