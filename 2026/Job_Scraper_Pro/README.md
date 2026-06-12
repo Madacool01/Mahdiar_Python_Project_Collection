@@ -5,7 +5,9 @@ A high-performance desktop application built to scrape, filter, and export open 
 ## 📥 Download the App (.exe)
 Because the Windows executable is 270 MB, it is hosted in the GitHub Releases tab. You do not need Python installed to use it.
 
-👉 **[CLICK HERE TO DOWNLOAD THE APP](sha256:b75941a527c5430a0ecf45d66bfa7f708a5806186cab3ec5816b171913a9fa82)** 👈
+👉 **[CLICK HERE TO DOWNLOAD THE APP](https://github.com/Madacool01/Mahdiar_Python_Project_Collection/releases/tag/Job_Scraper_v1.0/Job_Scraper_Pro.exe)** 👈
+
+_Once redirected, press the Job_Scraper_Pro.exe and it will be downloaded!_
 
 ## 🚀 Features
 * **Cross-Platform UI:** Modern, dark-themed GUI built entirely in Python using Flet.
