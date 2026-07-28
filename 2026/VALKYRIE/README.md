@@ -64,7 +64,7 @@ pip install customtkinter opencv-python mediapipe numpy pandas scikit-learn Pill
 
 ```bash
 cd app
-python fitness_dashboard.py
+python main_present.py
 ```
 
 ---
